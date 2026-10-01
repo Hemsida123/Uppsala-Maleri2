@@ -1,0 +1,21 @@
+UPPSALA MÅLERI & KULÖR — GITHUB / INLEED
+
+1. Packa upp ZIP-filen. Ladda upp innehållet, inte ZIP-filen.
+2. index.html, site.css, site.js och assets ska ligga direkt i webbplatsens rot.
+3. Behåll alla undermappar. Inga installationer behövs.
+
+GITHUB PAGES:
+Add file → Upload files. Ladda upp innehållet och välj Commit changes.
+Settings → Pages → Deploy from a branch → main (eller din uppladdningsgren) → /(root).
+Vänta tills publiceringen är klar och öppna länken som visas under Pages.
+Paketet innehåller färre än 100 filer; varje fil är mindre än 25 MB.
+
+INLEED:
+Säkerhetskopiera befintlig webbplats innan filerna läggs i rätt domäns dokumentrot.
+Kontrollera SSL och att index.html används som startsida.
+
+Video: 1920×1080 på dator, 1280×720 mobilanpassad, hela originalsekvensen utan ljud.
+Kontaktformuläret skapar ett mejlutkast; besökaren skickar själv och bifogar bilder.
+Direktutskick kan kopplas till en server senare. Länk finns även till befintligt liveformulär.
+Sökmotormetadata använder https://uppsalamaleri.se. Anpassa den vid annan permanent domän.
+Ingen kunddomän, mejltjänst eller befintlig webbplats har ändrats.
